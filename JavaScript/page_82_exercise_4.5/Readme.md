@@ -1,10 +1,10 @@
-# Page 80 exercise 4.4
+# Page 82 exercise 4.5
 
 ## screenshots
 
 ![code](screenshots/code.png)
-![firstoutput](screenshots/firstoutput.png)
-![secondoutput](screenshots/secondouptut.png)
+![output](screenshots/firstoutput.png)
+![ouput](screenshots/secondoutput.png)
 
 ## -I am not familiar with the prompt function yet so i added an html file.
 
